@@ -23,25 +23,6 @@ font:
   - "Roboto"
   - "Arial"
 
-# Custom style settings for the body and text
-style:
-  body:
-    font-family: "Roboto"
-    font-size: "16px"
-    color: "#333"  # Dark grey text color
-    background-color: "#f4f4f9"
-  
-  h1, h2, h3, h4, h5, h6:
-    color: "#2e3a59"  # Dark blue for headings
-    font-family: "Roboto"
-    font-weight: 600
-  
-  p:
-    line-height: 1.6
-
-  a:
-    color: "#1a73e8"  # Blue color for links
-    text-decoration: none
 
 # Exclude unnecessary elements
 exclude:

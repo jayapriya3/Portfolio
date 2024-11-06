@@ -1,7 +1,7 @@
 title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
 description: "Cloud Engineer with expertise in AWS, React, DevOps, and backend development."
-baseurl: "" # Leave empty for the root domain, e.g., https://username.github.io
-url: "https://yourusername.github.io" # Replace with your actual GitHub Pages URL
+baseurl: ""/portfolio"" # Leave empty for the root domain, e.g., https://username.github.io
+url: "https://jayapriya3.github.io" # Replace with your actual GitHub Pages URL
 
 # Theme Settings
 theme: jekyll-theme-minimal

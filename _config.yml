@@ -1,27 +1,16 @@
-title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
-description: "Cloud Engineer | M.S. in Computer Science | AWS & DevOps Enthusiast"
-author: "Jaya Priya Gudapati"
+
 theme: jekyll-theme-minimal
 
-# Set the background color of the page
-background: "#f4f4f9"  # Light grey background for the page
+# Customization
+style:
+  background_color: "#f4f4f4"   # Light grey background
+  text_color: "#333333"         # Dark grey text for better readability
+  accent_color: "#007acc"       # Accent color for headings or important elements
 
-# Set the color of the headings
-heading_font_color: "#2e3a59"  # Dark blue for headings
+# Additional optional color settings
+header_background_color: "#ffffff"  # White header for a clean look
+footer_background_color: "#e0e0e0"  # Slightly darker grey for footer contrast
 
-# Set text color
-text_color: "#333"  # Dark grey for body text
-
-# Set the link color
-link_color: "#1a73e8"  # Blue color for links
-
-# Configure the layout
-layout: default
-
-# Font settings (optional)
-font:
-  - "Roboto"
-  - "Arial"
 
 
 # Exclude unnecessary elements

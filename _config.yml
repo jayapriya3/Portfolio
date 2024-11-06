@@ -1,6 +1,9 @@
-title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
+title: "Welcome to My Portfolio"
+---
+
+# Hello, I'm Jaya Priya Gudapati!
 description: "Cloud Engineer with expertise in AWS, React, DevOps, and backend development."
-baseurl: ""/portfolio"" # Leave empty for the root domain, e.g., https://username.github.io
+baseurl: "https://github.com/jayapriya3/Portfolio/" # Leave empty for the root domain, e.g., https://username.github.io
 url: "https://jayapriya3.github.io" # Replace with your actual GitHub Pages URL
 
 # Theme Settings

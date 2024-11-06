@@ -1,8 +1,5 @@
 
 
-## Jaya Priya Gudapati
-
-
 ## Contact Information:
 - **Phone**: [682-334-3363](tel:+16823343363)
 - **Email**: [priyagudapati3@gmail.com](mailto:priyagudapati3@gmail.com)
@@ -22,8 +19,8 @@
 ---
 
 ## Education
-- **Masters in Computer Science** | The University of Texas at Arlington (August 2022 - May 2024)
-- **Bachelors in Computer Science and Engineering** | Gudlavalleru Engineering College, A.P, India (August 2018 - May 2022)
+**Masters in Computer Science** | The University of Texas at Arlington (August 2022 - May 2024)
+**Bachelors in Computer Science and Engineering** | Gudlavalleru Engineering College, A.P, India (August 2018 - May 2022)
 
 ---
 

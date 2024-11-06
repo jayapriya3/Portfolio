@@ -43,7 +43,7 @@ style:
     color: "#1a73e8"  # Blue color for links
     text-decoration: none
 
-# Social media links are omitted as per request
+
 
 # Exclude unnecessary elements
 exclude:

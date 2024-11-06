@@ -1,5 +1,9 @@
-title: Jaya Priya Gudapati
-#logo: /
-#description: text below image
-show_downloads: true
-theme: minima
+
+title: "Jaya Priya Gudapati's GitHub Profile"
+theme: "Minimal"
+display_profile_picture: true
+social_links:
+  - platform: LinkedIn
+    url: [https://www.linkedin.com/in/priya-gudapati]
+  - platform: Portfolio
+    url: [your portfolio URL]

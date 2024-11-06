@@ -1,40 +1,50 @@
-title: "Welcome to My Portfolio"
----
-
-# Hello, I'm Jaya Priya Gudapati!
-description: "Cloud Engineer with expertise in AWS, React, DevOps, and backend development."
-
-# Theme Settings
+title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
+description: "Cloud Engineer | M.S. in Computer Science | AWS & DevOps Enthusiast"
+author: "Jaya Priya Gudapati"
 theme: jekyll-theme-minimal
 
-# Custom CSS (you can style your page here)
-sass:
-  style: compressed
+# Set the background color of the page
+background: "#f4f4f9"  # Light grey background for the page
 
-# Set Background Color and Heading Colors
-header:
-  background: "#2d3b45"  # Dark background color for header
-  text_color: "#ffffff"   # White text for header
+# Set the color of the headings
+heading_font_color: "#2e3a59"  # Dark blue for headings
 
-footer:
-  background: "#34495e"  # Slightly lighter background for footer
-  text_color: "#ffffff"   # White text for footer
+# Set text color
+text_color: "#333"  # Dark grey for body text
 
-content:
-  background: "#ecf0f1"  # Light background color for content area
-  text_color: "#2c3e50"   # Dark text for content
-  
-# Customizing Heading Colors
-h1:
-  color: "#1abc9c"        # Greenish color for main headings
-  
-h2:
-  color: "#e74c3c"        # Red color for secondary headings
+# Set the link color
+link_color: "#1a73e8"  # Blue color for links
 
-h3:
-  color: "#3498db"        # Blue color for tertiary headings
+# Configure the layout
+layout: default
 
-# Font Style (you can change this as needed)
+# Font settings (optional)
 font:
-  family: "Arial, sans-serif"
-  size: 16px
+  - "Roboto"
+  - "Arial, sans-serif"
+
+# Custom style settings for the body and text
+style:
+  body:
+    font-family: "Roboto", sans-serif
+    font-size: "16px"
+    color: "#333"  # Dark grey text color
+    background-color: "#f4f4f9"
+  
+  h1, h2, h3, h4, h5, h6:
+    color: "#2e3a59"  # Dark blue for headings
+    font-family: "Roboto", sans-serif
+    font-weight: 600
+  
+  p:
+    line-height: 1.6
+
+  a:
+    color: "#1a73e8"  # Blue color for links
+    text-decoration: none
+
+# Social media links are omitted as per request
+
+# Exclude unnecessary elements
+exclude:
+  - "README.md"  # Exclude the README file from being processed as content

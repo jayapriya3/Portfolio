@@ -1,15 +1,13 @@
----
 
-title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
 
----
+## Jaya Priya Gudapati
 
-## Cloud Engineer
 
 ## Contact Information:
 - **Phone**: [682-334-3363](tel:+16823343363)
 - **Email**: [priyagudapati3@gmail.com](mailto:priyagudapati3@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/priya-gudapati](https://www.linkedin.com/in/priya-gudapati)
+- [LinkedIN](https://www.linkedin.com/in/priya-gudapati)
+- [GitHub](https://github.com/jayapriya3)
 
 ---
 
@@ -24,8 +22,8 @@ title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
 ---
 
 ## Education
-- **M.S., Computer Science** | The University of Texas at Arlington (August 2022 - May 2024)
-- **B.Tech., Computer Science and Engineering** | Gudlavalleru Engineering College, A.P, India (August 2018 - May 2022)
+- **Masters in Computer Science** | The University of Texas at Arlington (August 2022 - May 2024)
+- **Bachelors in Computer Science and Engineering** | Gudlavalleru Engineering College, A.P, India (August 2018 - May 2022)
 
 ---
 
@@ -63,6 +61,3 @@ title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
 - Automated testing and deployment with CI/CD pipelines, ensuring high availability and efficient delivery.
 
 ---
-
-## References
-Available upon request.

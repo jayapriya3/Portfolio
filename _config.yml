@@ -1,9 +1,39 @@
+title: "Jaya Priya Gudapati - Cloud Engineer Portfolio"
+description: "Cloud Engineer with expertise in AWS, React, DevOps, and backend development."
+baseurl: "" # Leave empty for the root domain, e.g., https://username.github.io
+url: "https://yourusername.github.io" # Replace with your actual GitHub Pages URL
 
-title: "Jaya Priya Gudapati's GitHub Profile"
-theme: "jekyll-theme-minimal"
-display_profile_picture: true
-social_links:
-  - platform: LinkedIn
-    url: [https://www.linkedin.com/in/priya-gudapati]
-  - platform: Portfolio
-    url: [your portfolio URL]
+# Theme Settings
+theme: jekyll-theme-minimal
+
+# Custom CSS (you can style your page here)
+sass:
+  style: compressed
+
+# Set Background Color and Heading Colors
+header:
+  background: "#2d3b45"  # Dark background color for header
+  text_color: "#ffffff"   # White text for header
+
+footer:
+  background: "#34495e"  # Slightly lighter background for footer
+  text_color: "#ffffff"   # White text for footer
+
+content:
+  background: "#ecf0f1"  # Light background color for content area
+  text_color: "#2c3e50"   # Dark text for content
+  
+# Customizing Heading Colors
+h1:
+  color: "#1abc9c"        # Greenish color for main headings
+  
+h2:
+  color: "#e74c3c"        # Red color for secondary headings
+
+h3:
+  color: "#3498db"        # Blue color for tertiary headings
+
+# Font Style (you can change this as needed)
+font:
+  family: "Arial, sans-serif"
+  size: 16px

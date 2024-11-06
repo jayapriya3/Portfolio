@@ -1,18 +1,3 @@
-
+title: Jaya Priya Gudapati
+show downloads: true
 theme: jekyll-theme-minimal
-
-# Customization
-style:
-  background_color: "#f4f4f4"   # Light grey background
-  text_color: "#333333"         # Dark grey text for better readability
-  accent_color: "#007acc"       # Accent color for headings or important elements
-
-# Additional optional color settings
-header_background_color: "#ffffff"  # White header for a clean look
-footer_background_color: "#e0e0e0"  # Slightly darker grey for footer contrast
-
-
-
-# Exclude unnecessary elements
-exclude:
-  - "README.md"  # Exclude the README file from being processed as content
